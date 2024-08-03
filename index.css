@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+}
+
+img {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 430px;
+}
+
+p{
+    justify-content: center;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#nav {
+    justify-content: center;
+    text-transform: capitalize;
+    flex-direction: row;
+}
