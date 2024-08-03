@@ -14,10 +14,11 @@ p{
     text-align: center;
     font-size: medium;
     font-weight: bold;
+    color: red
 }
 
 h1 {
-    color: red;
+    color: yellow;
     text-align: center;
     text-transform: uppercase;
 }
